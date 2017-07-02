@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"Hero1_1","characterIndex":0,"characterName":"Heroes(Walk)1","classId":1,"equips":[0,0,0,0,0,0],"faceIndex":0,"faceName":"Heroes1","traits":[{"code":31,"dataId":4,"value":1},{"code":23,"dataId":5,"value":1.25},{"code":22,"dataId":4,"value":0.15},{"code":62,"dataId":3,"value":1},{"code":23,"dataId":7,"value":0.75},{"code":22,"dataId":2,"value":0.08},{"code":23,"dataId":8,"value":0}],"initialLevel":1,"maxLevel":50,"name":"Player","nickname":"","note":"","profile":""}
+]

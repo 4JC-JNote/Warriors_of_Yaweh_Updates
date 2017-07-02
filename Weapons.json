@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Logos","note":"<Weapon Image: Sword Light>","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":8,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0.9},{"code":31,"dataId":4,"value":1},{"code":22,"dataId":6,"value":0.08}],"iconIndex":1105,"name":"Truth Edge","note":"<Weapon Image: Beam Blade Red>","params":[0,0,20,0,0,0,0,0],"price":500,"wtypeId":2}
+]

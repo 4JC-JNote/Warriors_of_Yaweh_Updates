@@ -1,0 +1,125 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center,Island>
+CREDITS
+
+\c[2]Engine
+4JC Gaming & Music
+RPG Maker MV
+
+\c[2]Plugin Providers
+Galv
+Yanfly
+Sumrndmdude
+DSE
+MOG
+
+\c[2]Artwork
+AEkashics
+4JC Gaming & Music
+MOG
+RPG Maker MV
+
+\c[2]Director
+Jon JNote Hall
+
+\c[2]Level Designer
+Jon JNote Hall
+
+\c[2]Character Designer
+Jon JNote Hall
+
+\c[2]4JC CEO & Founder
+Jon JNote Hall
+
+\c[2]Word Catalog
+
+\c[2]Old Testament
+Genesis
+Exodus
+Leviticus
+Numbers
+Deuteronomy
+Joshua
+Judges
+Ruth
+1 Samuel
+2 Samuel
+1 Kings
+2 Kings
+1 Chronicles
+2 Chronicles
+Ezra
+Nehemiah
+Esther
+Job
+Psalms
+Proverbs
+Ecclesiastes
+Song of Solomon
+Isaiah
+Jeremiah
+Lamentations
+Ezekiel
+Daniel
+Hosea
+Joel
+Amos
+Obadiah
+Jonah
+Micah
+Nahum
+Habakkuk
+Zephaniah
+Haggai
+Zechariah
+Malachi
+
+
+
+\c[2]New Testament
+Matthew
+Mark
+Luke
+John
+Acts
+Romans
+1 Corinthians
+2 Corinthians
+Galations
+Ephesians
+Philippians
+Colossians
+1 Thessalonians
+2 Thessalonians
+1 Timothy
+2 Timothy
+Titus
+Philemon
+Hebrews
+James
+1 Peter
+2 Peter
+1 John
+2 John
+3 John
+Jude
+Revelation
+
+
+</block>
+
+<block:300,0,10,10,100,right>
+\c[4]Special Thanks
+Everyone who Supports
+4JC Gaming and Music!
+</block>
+
+<block:300,0,10,10,100,left,Plain>
+Thank you for playing!
+</block>
+
+<block:1200,0,10,10,300,center,Tower1>
+\{\{\{\c[4]God Bless You
+</block>

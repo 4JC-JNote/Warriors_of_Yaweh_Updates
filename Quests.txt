@@ -1,0 +1,95 @@
+Text that appears outside of the <quest></quest> tags will not display anywhere and can be used for notes if required.
+
+// <quest id:Name of Quest|difficulty|catId>
+// OBJECTIVES separated by commas (leave this blank to not use objectives for a quest)
+// RESOLUTIONS separated by commas use | for line breaks (leave this blank if not using resolutions for a quest)
+// quest description
+// quest description
+// quest description
+// </quest>
+
+<quest 1:An appointed meeting|1|0>
+Visit \c[17]Pastor Dave\c[0]
+
+Pastor Dave wanted to
+meet with us today
+I wonder what he'll
+have to tell us?
+</quest>
+
+<quest 2:To the mountain!|1|0>
+Go to \c[17]Prayer Mountain\c[0]
+
+To get our spiritual
+armor, we need to
+go to prayer mountain.
+</quest>
+
+<quest 3:An Unpleasand discovery|1|0>
+Find your parents!
+
+Mom & Dad weren't home
+I hope they're at the church
+Sis doesn't feel good about it
+though, let's hurry...
+</quest>
+
+<quest 4:Gathering at the ususal spot|1|0>
+Meet Pastor Dave!
+
+Pastor Dave left us
+a clue. Let's go meet
+him at the usual spot...
+I hope all is well...
+and Who is this Jace person?
+</quest>
+
+<quest 5:Pre-emptive Strike!|2|0>
+Raid Jace's Fortress!
+
+The man named Jace
+has caused trouble in
+Serenity Village
+We have to stop him, or
+save him...Which ever comes first.
+His fortress is to the West...
+Let's Go!
+</quest>
+
+<quest 6:Forest Village...|1|0>
+Deliver Pastor Dave's Letter
+
+Pastor Dave has a friend
+in Forest Village whom he wants
+to send a letter to. We'll take
+it there and find out what's going
+on there. Forest town is to the
+South West.
+</quest>
+
+
+<quest 7:A New Blade?|1|0>
+Obtain the Truth Edge!
+
+There's an upgraded
+Sword in the Mountain cave...
+</quest>
+
+<quest 8:Confronting Leo!|2|0>
+Confront Leo in his fortress!
+
+Leo has planted seeds of
+jealousy, in the hearts of
+the people of Forest Village.
+I have to confront him.
+</quest>
+
+<quest 9:The Final Battle!|3|0>
+Infiltrate the Evil Palace
+
+This is it, I have to confront
+the evil doers in their hideout.
+God please protect me. Their
+lair is on an island East of
+Jubilee Village...
+</quest>
